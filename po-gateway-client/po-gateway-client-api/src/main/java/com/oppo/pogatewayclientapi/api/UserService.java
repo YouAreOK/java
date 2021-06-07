@@ -1,6 +1,6 @@
-package com.oppo.pogatewayclientweb.service;
+package com.oppo.pogatewayclientapi.api;
 
-import com.oppo.pogatewayclientweb.entity.User;
+import com.oppo.pogatewayclientapi.entity.User;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

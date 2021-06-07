@@ -1,6 +1,5 @@
 package com.oppo.pogatewayclientweb.controller1;
 
-import com.oppo.pogatewayclientapi.api.TestService;
 import com.oppo.pogatewayclientcommon.Result;
 import com.oppo.pogatewayclientcommon.ResultInfo;
 import io.swagger.annotations.Api;
